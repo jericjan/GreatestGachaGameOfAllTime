@@ -1,0 +1,3 @@
+# GreatestGachaGameOfAllTime
+
+run Main.java
